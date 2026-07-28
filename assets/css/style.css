@@ -330,7 +330,7 @@ body {
 }
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 300px) {
     .banner-logo {
     width: 100px;
     height: 100px;
@@ -376,7 +376,7 @@ body {
 }
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 300px) {
     .container {
     width: 300px;
     margin: 0 auto;
@@ -438,7 +438,7 @@ body {
 
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 300px) {
 
 .main-body {
     width: 330px;
@@ -503,7 +503,7 @@ body {
 
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 300px) {
 
 .footer {
     width: 300px; 
